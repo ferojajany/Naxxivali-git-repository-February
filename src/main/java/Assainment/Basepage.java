@@ -28,5 +28,8 @@ public class Basepage {
     }
     public void acceptalart(){
         driver.switchTo().alert().accept();
+        
     }
 }
+add a new featue
+
